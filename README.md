@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
 <h3 align="center">A passionate data analyst/data scientist based in Australia</h3>
 
+- 🔭 I’m currently working on:
+  - [Power BI](https://github.com/Linhholi/PowerBI)
+  - [Data Science - LLM project](https://github.com/Linhholi/LLM)
+  - [ReactJS - FastAPI Web Development projects for Data Sciene](https://github.com/Linhholi/React_FastAPI)
+
 - 🌱 I’m currently learning **Google Data Analytics Professional Certificate**
 
 - 📫 How to reach me **leslie.th.nguyen@gmail.com**
